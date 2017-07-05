@@ -48,7 +48,7 @@ Learn how to use Azure Cosmos DB to create a globally distributed database using
 Learn how to develop apps using Azure Cosmos DB:
 
 - Develop an app with Cosmos DB: [DocumentDB](/azure/cosmos-db/tutorial-develop-documentdb-dotnet) | [MongoDB](/azure/cosmos-db/tutorial-develop-mongodb) | [Table](/azure/cosmos-db/tutorial-develop-table-dotnet) | [Graph](/azure/cosmos-db/tutorial-develop-graph-dotnet)
-- Import data into Cosmos DB [DocumentDB](/azure/documentdb/documentdb-import-data) | [MongoDB](/azure/documentdb/documentdb-mongodb-migrate) 
+- Import data into Cosmos DB [DocumentDB](/azure/cosmos-db/import-data) | [MongoDB](/azure/cosmos-db/mongodb-migrate) 
 - Query data with Cosmos DB: [DocumentDB](/azure/cosmos-db/tutorial-query-documentdb) | [MongoDB](/azure/cosmos-db/tutorial-query-mongodb) | [Table](/azure/cosmos-db/tutorial-query-table) | [Graph](/azure/cosmos-db/tutorial-query-graph)
 - Global database replication with Cosmos DB: [DocumentDB](/azure/cosmos-db/tutorial-global-distribution-documentdb) | [MongoDB](/azure/cosmos-db/tutorial-global-distribution-mongodb) | [Table](/azure/cosmos-db/tutorial-global-distribution-table | [Graph](/azure/cosmos-db/tutorial-global-distribution-graph)
 - [Develop your application locally using the emulator](/azure/documentdb/documentdb-nosql-local-emulator)
